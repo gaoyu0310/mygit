@@ -3,3 +3,4 @@ thiss
 xxx
 Creating a new branch is quick & simple.
 shichao add a info for branch;
+test2 added!
